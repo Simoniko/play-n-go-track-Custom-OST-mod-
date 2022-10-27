@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_playngo" : "Play n Go",
+    "menu_jukebox_screen_playngo" : "Play n Go"
+}

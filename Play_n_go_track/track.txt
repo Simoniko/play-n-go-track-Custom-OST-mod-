@@ -1,0 +1,33 @@
+{
+    "id": "playngo",
+    "volume": 1,
+    "name": "Play n Go",
+    "fade_duration": 5.5,
+    "context": "stealth",
+    "events": {
+        "setup": {
+            "file": "setup.ogg",
+            "volume": 1,
+            "fade_in": 2,
+            "fade_out": 1.5
+        },
+       "control" : {
+            "file": "control.ogg",
+            "volume": 1,
+            "fade_in": 1,
+            "fade_out": 1
+        },
+        "buildup": {
+            "file": "buildup.ogg",
+            "volume": 1,
+            "fade_in": 1,
+            "fade_out": 2.5
+        },  
+        "assault" : {
+            "file": "assault.ogg",
+            "volume": 0.7,
+            "fade_in": 1.5,
+            "fade_out": 2.5
+        }
+    }
+}
